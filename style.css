@@ -1,0 +1,994 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+body {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+audio, canvas, progress, video {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+[hidden], template {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+a {
+  background: 0 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+a:active, a:hover {
+  outline: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+b, strong {
+  font-weight: 700;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+dfn {
+  font-style: italic;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+h1 {
+  font-size: 2em;
+  margin: .67em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+small {
+  font-size: 80%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+sup {
+  top: -.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+sub {
+  bottom: -.25em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+img {
+  border: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+svg:not(:root) {
+  overflow: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+figure {
+  margin: 1em 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+pre {
+  overflow: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+code, kbd, pre, samp {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+button, input, optgroup, select, textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+button {
+  overflow: visible;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+button, select {
+  text-transform: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+button, html input[type=button], input[type=reset], input[type=submit] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+button[disabled], html input[disabled] {
+  cursor: default;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+input {
+  line-height: normal;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+input[type=checkbox], input[type=radio] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+input[type=search] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: .35em .625em .75em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+legend {
+  border: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+textarea {
+  overflow: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+optgroup {
+  font-weight: 700;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\000031}}
+td, th {
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000320}}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000326}}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000334}}
+body {
+  background-color: #e3e3e1;
+  font-family: "HelveticaNeue-Light";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000338}}
+::selection {
+  background: #7ea386;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000347}}
+h2 {
+  color: #231f20;
+  font-size: 44px;
+  font-weight: 200;
+  line-height: 1.25;
+  margin-bottom: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000351}}
+h3 {
+  color: #414042;
+  font-size: 28px;
+  font-weight: 200;
+  line-height: 1.25;
+  margin-top: 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000355}}
+p {
+  line-height: 1.6;
+  color: #797b82;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000360}}
+a {
+  color: #00b480;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease-in-out;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000364}}
+a:hover {
+  color: #4f8510;
+}
+
+/* ==========================================
+Wide screen version
+========================================== */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000372}}
+.mobile-header,
+.mobile-hero {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000377}}
+.wrapper {
+  width: 100%;
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000381}}
+.left {
+  padding: 0 12% 5% 5%;
+  width: 66.67%;
+  float: left;
+  background-color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000389}}
+nav ul {
+  margin-top: 50px;
+  display: block;
+  list-style: none;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\0000396}}
+nav ul li {
+  display: inline;
+  float: left;
+  padding-right: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003102}}
+.intro {
+  clear: both;
+  margin: 10% 18% 10% 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003106}}
+.intro p {
+  color: #797b82;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003110}}
+.team {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003113}}
+.team a {
+  color: #231f20;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003115}}
+.team a:hover {
+  color: #80a94e;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003119}}
+.team h2 {
+  margin-bottom: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003123}}
+.team h4 {
+  color: #414042;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003129}}
+.team .two-col {
+  max-width: 48%;
+  float: left;
+  margin-right: 2%;
+  margin-bottom: 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003133}}
+.two-col img {
+  max-width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003136}}
+.description p {
+  line-height: 1.2;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003140}}
+p.small {
+  font-size: 12px;
+  margin: 20px 0;
+  line-height: 1.4;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003146}}
+.team .three-col {
+  max-width: 32%;
+  float: left;
+  margin-right: 1.3%;
+  margin-bottom: 40px;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003150}}
+.team .three-col .bio-hover {
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003152}}
+.team .three-col .bio-hover img {
+  max-width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003155}}
+.team .three-col .bio-hover a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding-top: 28%;
+  font-size: 20px;
+  background: rgba(255, 255, 255, 0.7);
+  opacity: 0;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003167}}
+.team .three-col .bio-hover a:hover {
+  opacity: 1;
+  color: #333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003174}}
+.team .three-col .small-description h4 {
+  font-weight: 200;
+  margin: 10px auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003178}}
+.team .three-col .small-description p {
+  font-size: 12px;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003190}}
+.fit {
+  padding-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003191}}
+.fit h2 {
+  padding-bottom: 20px;
+  margin-bottom: 0;
+  border-bottom: 1px solid gray;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003194}}
+.fit h3 {
+  padding-bottom: 20px;
+  margin-bottom: 0;
+  border-bottom: 1px solid gray;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003197}}
+.fit span {
+  font-size: 44px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003203}}
+.inquiry h2 {
+  margin-bottom: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003208}}
+.form-container {
+  font-size: 28px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid grey;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003213}}
+.form-container:nth-child(5) {
+  border-bottom: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003216}}
+.form-container label {
+  color: #797b82;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003219}}
+.form-container input {
+  border: none;
+  outline: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003224}}
+.form-container textarea {
+  width: 100%;
+  height: 200px;
+  margin: 10px 0;
+  outline: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003233}}
+input.submit {
+  font-size: 24px;
+  padding: 10px 20px;
+  background-color: #00b480;
+  color: white;
+  border: none;
+  outline: none;
+  -webkit-transition: all 0.2s ease-in-out;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003241}}
+input.submit:hover {
+  background: #414042;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003244}}
+input.submit:active {
+  background: #e3e3e1;
+  color: #231f20;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003255}}
+.right {
+  width: 33.33%;
+  height: 1080px;
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003260}}
+.hero {
+  width: 100%;
+  background: url(images/hero.jpg) center;
+  position: relative;
+  height: 1080px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003265}}
+.hero .logo {
+  text-align: center;
+  padding: 80px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003269}}
+.hero p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-left: 30px;
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003278}}
+.why img {
+  -webkit-filter: opacity(100%);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003294}}
+.why1 {
+  background-color: #549f66;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003285}}
+.why1 h3 {
+  margin-bottom: 10px;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003289}}
+.why1 p {
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003297}}
+.why2 {
+  background-color: #4f8510;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003285}}
+.why2 h3 {
+  margin-bottom: 10px;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003289}}
+.why2 p {
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003300}}
+.why3 {
+  background-color: #80a94e;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003285}}
+.why3 h3 {
+  margin-bottom: 10px;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003289}}
+.why3 p {
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003303}}
+.why4 {
+  background-color: #4b8256;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003285}}
+.why4 h3 {
+  margin-bottom: 10px;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003289}}
+.why4 p {
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003306}}
+.why5 {
+  background-color: #73ae80;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003285}}
+.why5 h3 {
+  margin-bottom: 10px;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003289}}
+.why5 p {
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003309}}
+.why6 {
+  background-color: #e3e3e1;
+  padding: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003285}}
+.why6 h3 {
+  margin-bottom: 10px;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003289}}
+.why6 p {
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003311}}
+.why6 h3, .why6 p {
+  color: #414042;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003314}}
+.why6 p {
+  font-size: 14px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003319}}
+.footer {
+  clear: both;
+  color: #414042;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003323}}
+.footer .footer-left {
+  padding: 0 12% 5% 5%;
+  width: 66.67%;
+  float: left;
+  background-color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003330}}
+.footer .footer-right {
+  width: 33.33%;
+  padding: 30px;
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003334}}
+.footer .footer-right img {
+  width: 25%;
+  height: 25%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003338}}
+.footer .footer-right h4 {
+  color: #414042;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 1.4;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003341}}
+.footer .footer-right p {
+  color: #414042;
+  font-size: 12px;
+  font-weight: 200;
+  line-height: 1.25;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003344}}
+.footer .footer-right a {
+  color: #231f20;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003346}}
+.footer .footer-right a:hover {
+  color: #80a94e;
+}
+
+/* ==========================================
+Regular version
+========================================== */
+@media all and (max-width: 1024px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003360}}
+  .left {
+    padding: 0 3% 3% 3%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003362}}
+  .left .intro {
+    margin: 10% 5% 0 0;
+  }
+}
+/* ==========================================
+small screen version
+========================================== */
+@media all and (max-width: 940px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003375}}
+  p {
+    font-size: 15px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003378}}
+  h2 {
+    color: #231f20;
+    font-size: 32px;
+    font-weight: 200;
+    line-height: 1.25;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003381}}
+  h3 {
+    font-size: 20px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003384}}
+  h4 {
+    font-size: 18px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003387}}
+  .left {
+    padding: 0 3% 3% 3%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003389}}
+  .left .intro {
+    margin: 10% 5% 0 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003393}}
+  .left .team p.small {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003397}}
+  .left .team .three-col h4 {
+    margin-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003402}}
+  .left .fit span {
+    font-size: 32px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003407}}
+  .left form label {
+    font-size: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003410}}
+  .left form .form-container {
+    padding-bottom: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003413}}
+  .left form textarea {
+    margin: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003416}}
+  .left form input.submit {
+    margin: 10px 0;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003422}}
+  .right .logo img {
+    width: 60%;
+    height: 60%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003426}}
+  .right .why1,
+  .right .why2,
+  .right .why3,
+  .right .why4,
+  .right .why5,
+  .right .why6 {
+    padding: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003435}}
+  .right .why6 p {
+    font-size: 12px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003441}}
+  .footer {
+    clear: both;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003443}}
+  .footer .footer-right {
+    padding: 30px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003446}}
+  .footer .footer-right h4 {
+    color: #414042;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.25;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003449}}
+  .footer .footer-right p {
+    color: #414042;
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 1.25;
+  }
+}
+/* ==========================================
+small screen version
+========================================== */
+@media all and (max-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003463}}
+  .left {
+    padding: 0 3% 3% 3%;
+    width: 65%;
+    height: 100%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003467}}
+  .left .intro {
+    margin: 10% 5% 0 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003469}}
+  .left .intro p {
+    font-size: 14px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003474}}
+  .left .team .two-col {
+    max-width: 100%;
+    float: left;
+    margin-right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003477}}
+  .left .team .three-col {
+    max-width: 49%;
+    float: left;
+    margin-right: 1%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003479}}
+  .left .team .three-col .bio-hover a {
+    padding-top: 25%;
+    font-size: 16px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003483}}
+  .left .team .three-col h4 {
+    font-size: 18px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003489}}
+  .right {
+    width: 35%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003492}}
+  .footer {
+    clear: both;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003494}}
+  .footer .footer-left {
+    width: 65%;
+    padding: 0% 3% 6%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003498}}
+  .footer .footer-right {
+    width: 35%;
+    padding: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003502}}
+  .footer .footer-right h4 {
+    color: #414042;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.25;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003505}}
+  .footer .footer-right p {
+    color: #414042;
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 1.25;
+  }
+}
+/* ==========================================
+Mobile version
+========================================== */
+@media all and (max-width: 480px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003519}}
+  .wrapper nav {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003522}}
+  .mobile-hero {
+    display: block;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003525}}
+  .mobile-header {
+    display: block;
+    position: fixed;
+    width: 100%;
+    background: black;
+    margin: 0;
+    z-index: 99;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003534}}
+  .mobile-header a {
+    text-decoration: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003538}}
+  .mobile-logo {
+    z-index: 100;
+    text-align: center;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003542}}
+  .mobile-logo a {
+    display: inline-block;
+    text-align: center;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003546}}
+  .mobile-logo img {
+    margin: 10px;
+    width: 60%;
+    height: 60%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003555}}
+  .mobile-header ul {
+    width: 100%;
+    text-align: center;
+    display: block;
+    background: #00b480;
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    font-size: 0;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003565}}
+  .mobile-header ul li {
+    color: white;
+    display: inline-block;
+    text-align: center;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003570}}
+  .mobile-header ul li a {
+    text-decoration: none;
+    color: white;
+    margin: 0;
+    padding: 5px 20px;
+    font-size: 14px;
+    -webkit-transition: all 0.3s ease-in-out;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003578}}
+  .mobile-header ul a:hover {
+    background: white;
+    color: #231f20;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003582}}
+  .mobile-hero {
+    background: url(images/hero.jpg) center;
+    height: 300px;
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003588}}
+  .left, .right {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003592}}
+  .right {
+    height: auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003594}}
+  .right .hero {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003598}}
+  .footer {
+    clear: both;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/winter\/Google\%20Drive\/HackerYou\/client4-journeymade\/style\.scss}line{font-family:\00003600}}
+  .footer .footer-left, .footer .footer-right {
+    width: 100%;
+  }
+}
